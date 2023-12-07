@@ -1,0 +1,106 @@
+body {
+    font-family: Fonte;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f8ff;
+    background-image: linear-gradient(rgba(0,0,0,0.60),rgba(0,0,0,0.60)),url("https://www.teahub.io/photos/full/65-656296_spa-massage.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+
+header {
+    
+    padding: 0px;
+    color: #fff;
+}
+
+h1 {
+    text-align: center;
+
+    font-style: italic;
+    font-size: 60px;
+    color: blanchedalmond;
+    
+}
+
+p {
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 0px;
+    color: #fff;
+}
+
+main {
+    padding: 10px;
+}
+
+/* Booking Styles */
+
+.booking {
+    color: blanchedalmond;
+    margin-bottom: 0px;
+    
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 15px;
+    color: rgb(70, 59, 59)15, 88, 88;
+}
+
+input, select {
+    width: 200px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+
+/* Services Styles */
+
+
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 10px;
+    color: black;
+}
+
+/* About Styles */
+
+
+p {
+    
+    font-size: 14px;
+    line-height: 1.5;
+    
+}
+
+/* Footer Styles */
